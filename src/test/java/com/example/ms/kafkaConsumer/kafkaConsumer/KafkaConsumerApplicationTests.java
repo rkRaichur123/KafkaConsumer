@@ -9,5 +9,4 @@ class KafkaConsumerApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
